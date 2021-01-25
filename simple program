@@ -1,0 +1,9 @@
+#to simpe program showing the concadenation  and airmethic operation.... lot more on way!!
+
+bluetooth=1200
+delivery_fee=200
+discount=200
+customer_id="vina"
+print(customer_id)
+print(bluetooth+delivery_fee)
+print(bluetooth-discount)
